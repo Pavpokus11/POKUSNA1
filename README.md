@@ -1,4 +1,4 @@
-# 1	Kontrola, zda je došlý soubor typu xml
+# 1	Kontrola, zda je došlý soubor typu xml 
 
 Kontroluje se, zda je došlý soubor typu xml. Zároveň se kontroluje, zda přípona souboru odpovídá formátu.
 
