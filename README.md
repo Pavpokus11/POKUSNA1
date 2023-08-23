@@ -2,7 +2,7 @@
 
 Kontroluje se, zda je došlý soubor typu xml. Zároveň se kontroluje, zda přípona souboru odpovídá formátu.
 
-| výsledek  | Second Header | kód chyby | vypsané hlášení |
+| výsledek  | stav | kód chyby | vypsané hlášení |
 | ------------- | ------------- |------------- | ------------- | 
 | Došlý soubor je typu xml.  | chyba  | 300010 | Struktura SIP neodpovídá NSeSSS v. 3, příloha 3, kapitola 11
 | Došlý soubor není typu xml.  |  pořádku  | |  |
