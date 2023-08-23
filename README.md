@@ -21,9 +21,9 @@ Formát nebyl identifikován	chyba	380150	U komponenty ... se nepodařilo identi
 Popis změn
 Něco napíšeme
 
-#29	Validace pro potřeby skartačního řízení
+## 29	Validace pro potřeby skartačního řízení
 Samostatná validace pro potřeby skartačního řízení vypuštěna. Odchylky od celé validace byly zapracovány do existujících testů.
 
 
-#30	SIP je validní
+## 30	SIP je validní
 31	Konec
