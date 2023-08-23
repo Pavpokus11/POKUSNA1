@@ -1,3 +1,14 @@
+# 1	Kontrola, zda je došlý soubor typu xml
+
+Kontroluje se, zda je došlý soubor typu xml. Zároveň se kontroluje, zda přípona souboru odpovídá formátu.
+
+| výsledek  | Second Header | kód chyby | vypsané hlášení |
+| ------------- | ------------- |------------- | ------------- | 
+| Došlý soubor je typu xml.  | chyba  | 300010 | Struktura SIP neodpovídá NSeSSS v. 3, příloha 3, kapitola 11
+| Došlý soubor není typu xml.  |  pořádku  | |  |
+
+
+
 výsledek	stav	kód stavu	vypsané hlášení	následující krok
 Hodnota atributu <forma_uchovani> je Originál a příslušný soubor odpovídá Formátovým pravidlům	v pořádku			29
 Hodnota atributu <forma_uchovani> je Originál ve výstupním datovém formátu a příslušný soubor odpovídá Formátovým pravidlům (tzn. je ve výstupním datovém formátu).	v pořádku			29
