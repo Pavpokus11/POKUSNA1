@@ -6,6 +6,8 @@ Kontroluje se, zda je došlý soubor typu xml. Zároveň se kontroluje, zda př�
 | ------------- | ------------- |------------- | ------------- | 
 | Došlý soubor je typu xml.  | chyba  | 300010 | Struktura SIP neodpovídá NSeSSS v. 3, příloha 3, kapitola 11
 | Došlý soubor není typu xml.  |  pořádku  | |  |
+| Došlý soubor je typu xml, ale nemá správnou příponu. | chyba  | 300010 | Struktura SIP neodpovídá NSeSSS v. 3, příloha 3, kapitola 11
+
 
 
 
